@@ -1,0 +1,1082 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<title>Bitcoin (BTC) - Price, Chart & Coin Analysis - Alternative</title>
+
+	
+	<meta name="robots" content="noindex, follow">
+	
+
+	<link rel="stylesheet" href="/index.css">
+
+	<meta name="description" content="Check out our detailed analytics, price graphs and data for Bitcoin (BTC). All data is updated every 5 minutes." />
+
+	
+
+	<meta name="referrer" content="unsafe-url">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+	<div id="wrapper">
+		<header id="header">
+			<nav class="navbar" role="navigation" aria-label="main navigation">
+	<div class="container">
+		<div class="navbar-brand">
+			<a class="navbar-item" href="/">
+				<img src="/images/alternative-me-logo.png" style="margin-right: 0.5rem; height: 30px;">
+				<span style="line-height: 0.9">
+				<span class="has-text-weight-bold is-size-4">alternative</span><br />
+				<span class="is-size-7">Find Suitable Software</span>
+				</span>
+			</a>
+
+			<a role="button" class="navbar-burger burger" :class="NavbarMenuisOpen ? 'is-active' : ''" aria-label="menu" @click="NavbarMenuisOpen = !NavbarMenuisOpen">
+				<span aria-hidden="true"></span>
+				<span aria-hidden="true"></span>
+				<span aria-hidden="true"></span>
+			</a>
+		</div>
+
+		<div class="navbar-menu is-hidden-desktop" :class="NavbarMenuisOpen ? 'is-active' : ''">
+			<div class="navbar-start">
+				<a class="navbar-item" href="/">Home</a>
+				
+				<div class="navbar-item">
+					<div class="buttons">
+						<a href="/signup/" class="button is-primary">Sign Up</a>
+						<a href="/login/" class="button is-light">Log In</a>
+					</div>
+				</div>
+				
+				<a class="navbar-item" href="/software/">Software</a>
+				<a class="navbar-item" href="/products/">Products</a>
+				
+					
+						<a class="navbar-item" href="/crypto/">Crypto</a>
+					
+				
+			</div>
+		</div>
+
+		<div class="navbar-menu">
+			<div class="navbar-start">
+				<a class="navbar-item" href="/">
+					Home
+				</a>
+
+				<a class="navbar-item" href="/software/">
+					Software
+				</a>
+
+				<a class="navbar-item" href="/products/">
+					Products
+				</a>
+
+				<a class="navbar-item" href="/crypto/">
+					Crypto
+				</a>
+
+				<!--div class="navbar-item has-dropdown is-hoverable">
+					<a class="navbar-link">
+					More
+					</a>
+
+					<div class="navbar-dropdown">
+						<a class="navbar-item" href="/how-to/submit-software/">
+							Submit a Software
+						</a>
+						<a class="navbar-item" href="/how-to/suggest-alternatives/">
+							Suggest Alternatives
+						</a>
+						<a class="navbar-item" href="/about/">
+							About
+						</a>
+						<a class="navbar-item" href="/imprint/">
+							Imprint
+						</a>
+						<hr class="navbar-divider">
+						<a class="navbar-item has-text-danger" href="/report/">
+							Report an issue
+						</a>
+					</div>
+				</div-->
+			</div>
+
+			<div class="navbar-end">
+			
+				<div class="navbar-item">
+					<div class="buttons">
+						<a href="/signup/" class="button is-primary">Sign Up</a>
+						<a href="/login/" class="button is-light">Log In</a>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+</nav>
+		</header>
+
+		<main id="main">
+		
+
+		
+
+		
+
+
+<section class="section">
+	<div class="container">
+		<nav class="breadcrumb" aria-label="breadcrumbs">
+			<ul>
+				<li><a href="/">Home</a></li>
+				
+					
+						<li><a href="/crypto/">Crypto</a></li>
+					
+				
+				<li><a href="/coins/">Coins</a></li>
+				<li class="is-active"><a href="#" aria-current="page">Bitcoin</a></li>
+			</ul>
+		</nav>
+
+		<div class="box">
+			<div class="media">
+				<div class="media-left">
+					<img src="/images/coin_icons/bitcoin.jpg" />
+				</div>
+				<div class="media-content">
+					<h1 class="title">Bitcoin (BTC)</h1>
+
+					<div class="block">
+						<span class="tag is-success">Market Cap Rank #1</span>
+					</div>
+
+					<div class="title is-5 is-half-margin">Useful Links</div>
+
+					<div class="block">
+						<div class="buttons">
+							<a target="_blank" href="http://www.bitcoin.org" class="button is-small is-primary">Homepage</a>
+							<a target="_blank" href="https://blockchair.com/bitcoin/" class="button is-small is-light">Blockchain Site</a>
+							<a target="_blank" href="https://bitcointalk.org/" class="button is-small is-light">Forum</a>
+							
+							
+						</div>
+					</div>
+
+					<div class="title is-5 is-half-margin">Social Links</div>
+
+					<div class="block">
+						<div class="buttons">
+						
+							<a target="_blank" href="https://www.reddit.com/r/Bitcoin/" class="button is-small is-brand is-reddit">
+								<b-icon icon="reddit-alien" pack="fab" size="is-small"></b-icon>
+								<span class="is-reddit is-next-to-icon">Reddit</span>
+							</a>
+						
+						
+							<a target="_blank" href="https://www.twitter.com/btc" class="button is-small is-brand is-twitter">
+								<b-icon icon="twitter" pack="fab" size="is-small"></b-icon> 
+								<span class="is-next-to-icon">Twitter</span>
+							</a>
+						
+						
+							<a target="_blank" href="https://www.facebook.com/bitcoins" class="button is-small is-brand is-facebook">
+								<b-icon icon="facebook-f" pack="fab" size="is-small"></b-icon>
+								<span class="is-next-to-icon">Facebook</span>
+							</a>
+						
+						
+						
+						
+							<a target="_blank" href="https://github.com/bitcoin/bitcoin" class="button is-small is-brand is-github">
+								<b-icon icon="github" pack="fab" size="is-small"></b-icon>
+								<span class="is-next-to-icon">Github</span>
+							</a>
+						
+						
+						</div>
+					</div>
+				</div>
+				<div class="media-right is-hidden-mobile">
+					<div class="block">
+						<div class="columns">
+							<div class="column is-size-4 is-nobreak">
+								<span class="has-text-weight-bold">$59,041</span>
+								<span class="has-text-success">(0.03%)</span>
+								<div class="has-text-grey-light is-nobreak is-size-6">Price (USD)</div>
+							</div>
+							<div class="column is-size-4">
+								<span class="has-text-weight-bold">$1,101,386,268,895</span>
+								<div class="has-text-grey-light is-nobreak is-size-6">Market Cap (USD)</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="block">
+						<div class="columns">
+							<div class="column">
+								
+								<div class="has-text-success is-nobreak">
+									<i class="fa fa-arrow-up"></i>
+									0.22%
+								</div>
+								
+								<div class="has-text-grey-light is-nobreak">1h change</div>
+							</div>
+							<div class="column">
+								
+								<div class="has-text-success is-nobreak">
+									<i class="fa fa-arrow-up"></i>
+									0.03%
+								</div>
+								
+								<div class="has-text-grey-light is-nobreak">24h change</div>
+							</div>
+							<div class="column">
+								
+								<div class="has-text-success is-nobreak">
+									<i class="fa fa-arrow-up"></i>
+									12.40%
+								</div>
+								
+								<div class="has-text-grey-light is-nobreak">7d change</div>
+							</div>
+							<div class="column">
+								
+								<div class="has-text-success is-nobreak">
+									<i class="fa fa-arrow-up"></i>
+									819.40%
+								</div>
+								
+								<div class="has-text-grey-light is-nobreak">1y change</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="block">
+						<div class="title is-5 is-half-margin">Info</div>
+						<div></div>
+						<div>Established since: {{ dayjs('2009-01-03').format('LL') }}</div>
+						
+						<div>All-time high change: <span class="has-text-danger">-4.41%</span></div>
+						
+						<!-- <div>Data updated: {{ moment('2021-04-01T15:05:16Z').format('MMMM Do YYYY, HH:mm:ss') }}</div> -->
+						<div>Data updated: {{ dayjs('2021-04-01T15:05:16Z').format('LLL') }}</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="media">
+				<div class="media-content is-tablewrapper">
+					<div class="title is-4">Key Values of Bitcoin</div>
+
+					<div class="block is-tablewrapper">
+						<table class="table is-fullwidth is-bordered is-striped">
+							<tr>
+								<th>Low 24h</th>
+								<th>High 24h</th>
+								<th>All-Time High (Date)</th>
+								<th>Market Cap</th>
+								<th>Volume (24h)</th>
+								<th>Circulating Supply</th>
+								<th>Total Supply</th>
+							</tr>
+							<tr>
+								<td>$58,377</td>
+								<td>$59,599</td>
+								<td>$61,712 ({{ dayjs('2021-03-13').format('LL') }})</td>
+								<td>$1,101,386,268,895</td>
+								<td>$59,681,186,476</td>
+								<td>18,670,706 BTC</td>
+								<td>21,000,000 BTC</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+			<div class="media">
+				<div class="media-content">
+					<div class="title is-4">Bitcoin Chart</div>
+
+					<div class="block has-text-centered">
+						<button class="button" @click="setChartRange('24h')">24h</button>
+						<button class="button" @click="setChartRange('7d')">7d</button>
+						<button class="button" @click="setChartRange('30d')">30d</button>
+						<button class="button" @click="setChartRange('90d')">90d</button>
+						<button class="button" @click="setChartRange('1y')">1y</button>
+						<button class="button" @click="setChartRange('all')">All</button>
+					</div>
+
+					<div class="block" id="chart-wrapper">
+						<v-chart ref="chart" :options="chartOptions" style="width: 100%; height: 600px;" @datazoom="updateZoom"></v-chart>
+					</div>
+				</div>
+			</div>
+
+
+			
+			<div class="media">
+				<div class="media-content">
+					<div class="title is-4">Description</div>
+
+					<div class="block">
+						Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.
+
+Bitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority and banks.
+
+Bitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the SHA-256 hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.
+
+Being the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as Litecoin, Peercoin, Primecoin, and so on.
+
+The cryptocurrency then took off with the innovation of the turing-complete smart contract by Ethereum which led to the development of other amazing projects such as EOS, Tron, and even crypto-collectibles such as CryptoKitties.
+					</div>
+				</div>
+			</div>
+			
+
+			<div class="media">
+				<div class="media-content">
+					<p class="block"><span class="has-text-weight-bold">Data provided by <a href="https://www.coingecko.com/api/documentations/v3#/" target="_blank">CoinGecko API</a>.</span></p>
+					<p class="block">After having established our own API for over two years with over twemty exchanges, hundreds of market pairs and millions of data points, we are really happy to now rely on CoinGecko as our main data provider. They are really doing a great job!</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+		</main>
+
+		<footer id="footer">
+  <div class="footer-main">
+    <div class="columns is-mobile is-multiline">
+      <div class="column is-half-mobile is-one-quarter-tablet">
+        <div class="title is-5">Alternative.me</div>
+        <ul class="block">
+          <li><a href="/software/">Software</a></li>
+          <li><a href="/products/">Products</a></li>
+          
+            
+              <li><a href="/crypto/">Crypto</a></li>
+            
+          
+        </ul>
+      </div>
+      <div class="column is-half-mobile is-one-quarter-tablet">
+        <div class="title is-5">Services</div>
+        <ul>
+          <li><a href="/how-to/submit-software/">Submit a Software</a></li>
+          <li><a href="/how-to/suggest-alternatives/">Suggest Alternatives</a></li>
+        </ul>
+      </div>
+      <div class="column is-half-mobile is-one-quarter-tablet">
+        <div class="title is-5">Help &amp; Support</div>
+        <ul>
+          <li><a href="/faq/">FAQs</a></li>
+          <li><a href="/how-to/">How-To</a></li>
+          <li><a href="/report/" class="has-text-danger">Report an Issue</a></li>
+        </ul>
+      </div>
+      <div class="column is-half-mobile is-one-quarter-tablet">
+        <div class="title is-5">Company</div>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact Us</a></li>
+          <li><a href="/imprint/">Imprint</a></li>
+          <li><a href="https://www.facebook.com/alternativedb/" target="_blank" rel="noopener noreferrer"><b-icon icon="facebook-f" pack="fab" size="is-small" style="vertical-align: middle;"></b-icon> Facebook</a></li>
+          <li><a href="https://discord.gg/ea9CBNk" target="_blank" rel="noopener noreferrer"><b-icon icon="discord" pack="fab" size="is-small" style="vertical-align: middle;"></b-icon> Discord</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom is-flex-tablet" style="justify-content: space-between;">
+    <div>
+      Made with <b-icon icon="heart" pack="fas" size="is-small" style="vertical-align: middle;" class="has-text-danger"></b-icon> in Hamburg, Germany.
+    </div>
+    <div class="is-flex-tablet">
+      <div style="margin-right: 1em;">&copy; tobieskrambs GmbH</div>
+      <div><a href="/terms/">Terms</a> &amp; <a href="/privacy/">Privacy</a></div>
+    </div>
+  </div>
+
+  <div v-if="!cookieAccepted" style="position: fixed; bottom: 0; left: 0; right: 0; z-index: 9001; background-color: rgba(20,20,20,0.8); color: #ccc; display: flex; justify-content: space-between; align-items: center; padding: 0.5rem;" v-cloak>
+    <span>This website uses cookies to ensure you get the best experience on our website. <a class="has-text-primary" href="/privacy/">Learn more</a></span>
+    <button class="button is-primary" @click="acceptCookie">Got it!</button>
+  </div>
+</footer>
+
+	</div>
+
+	<!-- JS -->
+	<script src="/index.js"></script>
+
+	
+	<script src="https://cdn.jsdelivr.net/npm/echarts@4.1.0/dist/echarts.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue-echarts@4.0.2"></script>
+	
+
+	
+
+	<script>
+new Vue({
+	el: '#header',
+	data() {
+	  return {
+		NavbarMenuisOpen: false
+	  }
+	}
+});
+</script>
+
+<script>
+new Vue({
+	el: '#footer',
+	data() {
+	  return {
+		cookieAccepted: false
+	  }
+	},
+	mounted() {
+	  if (document.cookie.indexOf('cookie_consent') > -1) {
+		this.cookieAccepted = true
+	  }
+	},
+	methods: {
+	  acceptCookie() {
+		$cookies.set('cookie_consent', 1)
+		this.cookieAccepted = true
+	  }
+	}
+});
+</script>
+
+	<script type="text/javascript">
+		var gaProperty = 'UA-134165592-1';
+		var disableStr = 'ga-disable-' + gaProperty;
+		if (document.cookie.indexOf(disableStr + '=true') > -1) {
+			window[disableStr] = true;
+		}
+		function gaOptout() {
+			document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+			window[disableStr] = true;
+		}
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134165592-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-134165592-1', { 'anonymize_ip': true });
+	</script>
+
+	
+	<script type="text/javascript">
+new Vue({
+	el: '#main',
+	components: {
+		"v-chart": VueECharts
+	},
+	data () {
+		return {
+			coinId: 'bitcoin',
+			chartOptions: null,
+			sliderData: null,
+			isZooming: false,
+			zoomingValues: [0, 100],
+		}
+	},
+	mounted() {
+		this.showLoading()
+		this.getSliderData()
+		this.renderCoinChart(0, 0)
+	},
+	methods: {
+		showLoading() {
+			const chart = this.$refs.chart
+		      chart.showLoading({
+		        text: 'Loading…',
+		        color: '#4ea397',
+		        maskColor: 'rgba(255, 255, 255, 0.4)'
+		      })
+		},
+		hideLoading() {
+			const chart = this.$refs.chart
+			chart.hideLoading()
+		},
+		updateZoom(e) {
+			zoomingValues = [e.start, e.end]
+
+			if (!this.isZooming) {
+				this.isZooming = true
+
+				var vm = this
+				document.querySelector('#chart-wrapper').addEventListener('mouseup', function() { 
+					vm.setZoom(e.start, e.end)
+				}) 
+			} 
+	    },
+	    setZoom(start, end) {	    		
+	    	const startTime = parseInt(zoomingValues[0] * ((this.sliderData.time[this.sliderData.time.length - 1] - this.sliderData.time[0])/100) + this.sliderData.time[0])
+			const endTime = parseInt(zoomingValues[1] * ((this.sliderData.time[this.sliderData.time.length - 1] - this.sliderData.time[0])/100) + this.sliderData.time[0])
+
+	        const promise = this.updateCoinChart(startTime, endTime)
+	        promise.then(response => {
+	        	this.isZooming = false
+	        })
+	    },
+		setChartRange(range) {
+			let timeDiff = 0
+			const endTime = Date.now()
+
+			if (range === '24h') {
+				timeDiff = 24*60*60
+			} else if (range === '7d') {
+				timeDiff = 7*24*60*60
+			} else if (range === '30d') {
+				timeDiff = 30*24*60*60
+			} else if (range === '90d') {
+				timeDiff = 90*24*60*60
+			} else if (range === '1y') {
+				timeDiff = 365*24*60*60
+			} else {
+				timeDiff = endTime
+			}
+
+			const startTime = endTime - timeDiff * 1000
+
+			this.updateCoinChart(startTime, endTime)
+		},
+		async getSliderData() {
+			try {
+				const { data } = await this.axios.post('/crypto/coin_data_full/', {
+					coin_id: this.coinId
+				})
+
+				if (data.success) {
+					this.sliderData = data;
+				} else {
+					console.log("error getting slider data")
+				}
+
+				// console.log(data)
+			} catch (e) {
+				console.log(e)
+			}
+		},
+		async updateCoinChart(startTime, endTime) {
+			this.showLoading()
+
+			try {
+				const { data } = await this.axios.post('/crypto/coin_data/', {
+					coin_id: this.coinId,
+					start_time: startTime,
+					end_time: endTime
+				})
+
+				if (data.success) {
+					this.chartOptions.dataset.source = data.data
+					this.chartOptions.yAxis[0].min = (round_lower_y_limits(data.min_data[1] - (data.max_data[1] - data.min_data[1]) * 0.10))
+	                this.chartOptions.yAxis[0].max = (round_upper_y_limits(data.max_data[1] + (data.max_data[1] - data.min_data[1]) * 0.10))
+	                this.chartOptions.yAxis[1].min = (round_lower_y_limits(data.min_data[2] - (data.max_data[2] - data.min_data[2]) * 0.10))
+	                this.chartOptions.yAxis[1].max = (round_upper_y_limits(data.max_data[2] + (data.max_data[2] - data.min_data[2]) * 0.10))
+
+	                this.chartOptions.series[3].data = this.sliderData.data;
+
+	                this.chartOptions.dataZoom[1].start = (startTime - this.sliderData.time[0]) / (this.sliderData.time[this.sliderData.time.length - 1] - this.sliderData.time[0]) * 100;
+                	this.chartOptions.dataZoom[1].end = (endTime - this.sliderData.time[0]) / (this.sliderData.time[this.sliderData.time.length - 1] - this.sliderData.time[0]) * 100;
+				} else {
+					console.log("error")
+				}
+
+	        	this.hideLoading()
+				// console.log(data)
+			} catch (e) {
+				console.log(e)
+			}
+		},
+		async renderCoinChart() {
+			this.showLoading()
+
+			try {
+				const { data } = await this.axios.post('/crypto/coin_data/', {
+					coin_id: this.coinId
+				})
+
+				if (data.success) {
+					this.setCoinChartOptions(data)
+				} else {
+					console.log("error")
+				}
+
+	        	this.hideLoading()
+				// console.log(data)
+			} catch (e) {
+				console.log(e)
+			}
+		},
+		setCoinChartOptions(coin_data) {
+			const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+			const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+			const colors = ['#5793f3', '#d14a61', '#675bba']
+
+			this.chartOptions = {
+				dataset: {
+	                source: coin_data.data
+	            },
+	            // title: {
+	            //     text: coin_data.title_name+' Price & Market Cap'
+	            // },
+	            tooltip: {
+	                trigger: 'axis',
+	                formatter: function (params) {
+	                    // console.log(coin_data);
+	                    params = params[0];
+	                    var date = new Date(params.value[0]);
+	                    return ( '<span class="has-text-weight-bold">' + days[date.getDay()] + ', ' + months[date.getMonth()] + ' ' + date.getDate() + ', ' + date.getFullYear() + ', ' + format_time(date.getHours()) + ':' + format_time(date.getMinutes()) + ':' + format_time(date.getSeconds()) + '</span><br/>'
+	                        + 'Price: $' + format_y_values( params.value[1]) 
+	                        + '  <br/> Market Cap: ' + format_y_axis(params.value[2]) 
+	                        + '  <br/> Volume: ' + format_y_axis(params.value[3]) 
+	                        + '  <br/> Price change: ' + shortNumber(params.value[1]/coin_data.data[0][1]*100-100) + ' %');
+	                },
+	                axisPointer: {
+	                    type: 'cross'
+	                },
+	            },
+
+	            axisPointer: {
+	                link: {xAxisIndex: 'all'},
+	                // animation: false,
+	                // type: 'cross',
+	                label: {
+	                    // formatter: function(params) {
+	                    //     // var value = format_y_axis(params.value);
+	                    //     var value = params.value;
+	                    //     return parseFloat(value).toPrecision(4);
+	                    // }
+	                    // precision: 1,
+	                }
+	            },
+
+	            // toolbox: {
+	            //     shor
+	            //     feature: {
+	            //         dataView: {show: false, readOnly: false},
+	            //         restore: {show: true},
+	            //         saveAsImage: {show: true},
+	            //         dataZoom: {
+	            //             yAxisIndex: false
+	            //         },
+	            //     }
+	            // },
+	            legend: {
+	                data:['Market Cap', 'Price']
+	            },
+	            grid: [
+	                {
+	                    top: '32',
+	                    left: '70',
+	                    right: '70',
+	                    bottom: 250
+	                },
+	                {
+	                    left: '70',
+	                    right: '70',
+	                    height: 80,
+	                    bottom: 100
+	                },
+	                {
+	                    left: '70',
+	                    right: '70',
+	                    height: 80,
+	                    bottom: -200,
+	                }
+	            ],
+	            xAxis: [
+	                {
+	                    type: 'time',
+	                    splitNumber: 10,
+	                    axisPointer: {
+	                        label: {
+	                            show: false
+	                        },
+	                        // show: false
+	                    },
+	                },
+	                {
+	                    type: 'time',
+	                    gridIndex: 1,
+	                    axisLine: {onZero: false},
+	                    axisTick: {show: false},
+	                    splitLine: {show: false},
+	                    axisLabel: {show: false},
+	                    // splitNumber: 20,
+	                    min: 'dataMin',
+	                    max: 'dataMax',
+	                    axisPointer: {
+	                        label: {
+	                            formatter: function (params) {
+	                                // console.log(params);
+	                                if ( params.seriesData[0].data === undefined) {
+	                                    return '';
+	                                } else { 
+	                                    var seriesValue = params.seriesData[0].data[3] ;
+	                                    var date = new Date(params.value);
+	                                    return ( months[date.getMonth()] ) + ' ' + date.getDate() + ', ' + date.getFullYear()
+	                                    + (seriesValue != null
+	                                        ? '\n' + format_y_axis(seriesValue)
+	                                        : ''
+	                                    );
+	                                }
+	                               
+	                            }
+	                        }
+	                    }
+	                },
+	                {
+	                    type: 'time',
+	                    gridIndex: 2,
+	                    axisLine: {onZero: false},
+	                    axisTick: {show: false},
+	                    splitLine: {show: false},
+	                    axisLabel: {show: false},
+	                    splitNumber: 10,
+	                    min: 'dataMin',
+	                    max: 'dataMax',
+	                    axisPointer: {
+	                        label: {
+	                            show: false
+	                        },
+	                        show: false
+	                    },
+	                }
+	            ],
+	            yAxis: [
+	                {
+	                    type: 'value',
+	                    name: 'Price (USD)',
+	                    min: (round_lower_y_limits(coin_data.min_data[1] - (coin_data.max_data[1] - coin_data.min_data[1]) * 0.10)),
+	                    max:  (round_upper_y_limits(coin_data.max_data[1] + (coin_data.max_data[1] - coin_data.min_data[1]) * 0.10)),
+	                    position: 'right',
+	                    // boundaryGap: [0, '100%'],
+	                    splitNumber: 4,
+	                    splitArea: {
+	                        show: true
+	                    },
+	                    axisLine: {
+	                        lineStyle: {
+	                            color: colors[1]
+	                        }
+	                    },
+	                    axisLabel: {
+	                        formatter: '${value}'
+	                        // formatter: function (value, index) {
+	                        //     return '$' + value + ', Price change' + parseFloat(value/coin_data.data[0][1]*100-100).toPrecision(3) + '%' ;
+	                        // }
+	                    },
+	                    axisPointer: {
+	                        label: {
+	                            formatter: function (params) {
+	                                return '$' + parseFloat(params.value).toPrecision(4) + ', ' + parseFloat(params.value/coin_data.data[0][1]*100-100).toPrecision(3) + '%';
+	                            }
+	                        }
+	                    }
+	                },{
+	                    type: 'value',
+	                    name: 'Market Cap (USD)',
+	                    min: (round_lower_y_limits(coin_data.min_data[2] - (coin_data.max_data[2] - coin_data.min_data[2]) * 0.10)),
+	                    max:  (round_upper_y_limits(coin_data.max_data[2] + (coin_data.max_data[2] - coin_data.min_data[2]) * 0.10)),
+	                    position: 'left',
+	                    splitNumber: 4,
+	                    splitLine: {show: false},
+	                    // splitLine: {interval: 1e9},
+	                    axisLine: {
+	                        lineStyle: {
+	                            color: colors[0]
+	                        }
+	                    },
+	                    axisLabel: {
+	                        // formatter: '${value}'
+	                        formatter: function (value, index) {
+	                          return format_y_axis(value, index);
+	                        }
+	                    },
+	                    axisPointer: {
+	                        label: {
+	                            formatter: function (params) {
+	                                return format_y_axis(params.value);
+	                               
+	                            }
+	                        }
+	                    }
+	                },{
+	                    name: 'Volume (USD)',
+	                    type: 'value',
+	                    scale: true,
+	                    gridIndex: 1,
+	                    splitNumber: 2,
+	                    axisLabel: {show: true},
+	                    axisLine: {show: true},
+	                    axisTick: {show: false},
+	                    splitLine: {show: false},
+	                    axisLabel: {
+	                        // formatter: '${value}'
+	                        formatter: function (value, index) {
+	                            return format_y_axis(value, index);
+	                        }
+	                    }
+	                },{
+	                    scale: true,
+	                    gridIndex: 2,
+	                    splitNumber: 2,
+	                    axisLabel: {show: false},
+	                    axisLine: {show: false},
+	                    axisTick: {show: false},
+	                    splitLine: {show: false}
+	                }
+	            ],
+	            dataZoom: [
+	                {                           
+	                    type: 'select',
+	                    xAxisIndex: [0, 1],
+	                    start: 0,
+	                    end: 100
+	                },
+	                {
+	                    show: true,
+	                    xAxisIndex: 2,
+	                    type: 'slider',
+	                    start: 0,
+	                    end: 100,
+	                    handleIcon: 'M10.7,11.9v-1.3H9.3v1.3c-4.9,0.3-8.8,4.4-8.8,9.4c0,5,3.9,9.1,8.8,9.4v1.3h1.3v-1.3c4.9-0.3,8.8-4.4,8.8-9.4C19.5,16.3,15.6,12.2,10.7,11.9z M13.3,24.4H6.7V23h6.6V24.4z M13.3,19.6H6.7v-1.4h6.6V19.6z',
+	                    handleSize: '50%',
+	                    handleStyle: {
+	                        color: '#fff',
+	                        shadowBlur: 3,
+	                        shadowColor: 'rgba(0, 0, 0, 0.6)',
+	                        shadowOffsetX: 2,
+	                        shadowOffsetY: 2
+	                    },
+	                    bottom: 30,
+	                    height: 50,
+	                    lineStyle: {
+	                        color: '#000',
+	                    },
+	                    fillerColor: 'rgba(87, 147, 243, 0.15)',
+	                    backgroundColor: 'rgba(0, 0, 0, 0.05)',
+	                    dataBackgroundColor: 'rgba(87, 147, 243, 0.8)',
+	                }
+	            ],
+	            series: [{
+	                name: 'Price',
+	                type: 'line',
+	                showSymbol: false,
+	                encode: {
+	                    x: 0,
+	                    y: 1
+	                },
+	                itemStyle: {
+	                    normal: {
+	                        color: colors[1]
+	                    }
+	                },
+	                // markLine: {
+	                //     data: [{
+	                //         yAxis: coin_data.min_data[1]
+	                //     }]
+	                // }
+	            },
+	            {
+	                name: 'Market Cap',
+	                type: 'line',
+	                yAxisIndex: 1,
+	                showSymbol: false,
+	                encode: {
+	                    x: 0,
+	                    y: 2
+	                },
+	                itemStyle: {
+	                    normal: {
+	                        color: colors[0]
+	                    }
+	                },
+	            },
+	            {
+	                name: 'Volume',
+	                type: 'bar',
+	                xAxisIndex: 1,
+	                yAxisIndex: 2,
+	                showSymbol: false,
+	                encode: {
+	                    x: 0,
+	                    y: 3
+	                },
+	                itemStyle: {
+	                    normal: {
+	                        color: colors[0]
+	                    }
+	                },
+	            },
+	            {
+	                zlevel: -1,
+	                name: 'Full Price (hidden)',
+	                type: 'line',
+	                xAxisIndex: 2,
+	                yAxisIndex: 3,
+	                showSymbol: false,
+	                data: this.sliderData.data,
+	                itemStyle: {
+	                    normal: {
+	                        color: '#fff'
+	                    }
+	                }
+	            }]
+			}
+
+			// done
+		}
+	}
+});
+
+function format_y_axis (value ) {
+    value = parseFloat(value).toPrecision(4);
+    if (value > 1e9) {
+        return '$'+value / 1e9+'B';
+    } else if (value >1e6) {
+        return '$'+value / 1e6+'M'; 
+    } else if (value > 1e3) {
+        return '$'+value / 1e3+'k';
+    } else {
+        return '$'+value;
+    }
+};
+
+function format_y_values(value) {
+    var valueformat = value;
+
+    if  ( value >= 10 || value == 0) {
+        valueformat = parseFloat(value).toFixed(2);
+        return valueformat;
+    }
+
+    if ( value < 10) {
+        valueformat = parseFloat(value).toPrecision(4);
+        return valueformat;
+    }  
+};
+
+function round_lower_y_limits(value) {
+    var valueformat = value;
+
+    if (value > 1e6){
+        value = parseFloat(value).toPrecision(3);
+    }
+    else if (value > 10){
+        value = parseFloat(value).toPrecision(2);
+    }
+
+    else if ( value < 10) {
+        value = parseFloat(value).toPrecision(3); 
+    }  
+    if (value < 0){
+        value = 0;
+    }
+    return value;
+};
+
+function round_upper_y_limits(value) {
+    var valueformat = value;
+
+
+    if (value > 1e6){
+        value = parseFloat(value).toPrecision(3);
+    }
+    else if (value > 10){
+        value = parseFloat(value).toPrecision(2);
+    }
+
+    else if ( value < 10) {
+        value = parseFloat(value).toPrecision(3); 
+    }  
+    // console.log(String(parseInt(value)).length);
+    return value;
+};
+
+function format_time(input) {
+    if (input < 10) {
+        input = '0' + input;
+    }
+    return input;
+};
+
+function niceNumber(input) {
+    var input_string = String(input);
+    if (input_string.match(/\.\d{3}/)) {
+        return input;
+    }
+    var regExp = /(\d+)(\d{3})(.*?)$/;
+    while (match = regExp.exec(input)) {
+        input = match[1]+','+match[2]+match[3];
+    }
+    return input;
+}
+
+function nicerNumber(input) {
+        value = parseFloat(input).toPrecision(6);
+        var final = 0;
+
+        if (value > 1e9) {
+            value = value / 1e9;
+            value = value.toLocaleString();
+            final = '$'+value+'B';
+        } else if (value >1e6) {
+            value = value / 1e6;
+            value = value.toLocaleString();
+            final = '$'+value+'M'; 
+        } else if (value > 1e3) {
+            value = value / 1e3;
+            value = value.toLocaleString();
+            final = '$'+value +'k';
+        } else {
+            value = value.toLocaleString();
+            final = '$'+value;
+        }
+
+    return final; // = preis * "2";
+};
+
+function shortNumber(value) {
+    value = parseFloat(value).toPrecision(3);
+
+    if (value >= 1000000000) {
+        value = value / 1000000000 + ' G';
+    } else if (value >= 1000000) {
+        value = value / 1000000 + ' M';
+    } else if (value >= 1000) {
+        value = value / 1000 + ' k';
+    }
+
+    return value;
+}
+</script>
+
+	
+
+</body>
+</html>
+
